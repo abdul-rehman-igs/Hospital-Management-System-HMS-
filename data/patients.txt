@@ -1,0 +1,3 @@
+id,name,dob,age,status,gender,contact,address,medicalHistory,admitDate
+P1,ayesha,12-07-2005,19,ADMITTED,female,0992233445,ayesha home,flu sick,17-11-2025
+P2,ashina,07-05-2004,20,ADMITTED,female,09387478483,ashina home,metal health,17-11-2025
