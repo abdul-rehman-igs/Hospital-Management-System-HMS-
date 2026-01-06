@@ -17,7 +17,6 @@ import java.util.UUID;
  * - Encapsulation, Inheritance, Abstraction, Polymorphism
  * - File handling (serialization .ser + human-readable .txt CSV)
  * - GUI: Login -> Dashboard -> Patient Management (Add + View)
- *
  * DOB format expected in the Add Patient form: dd-MM-yyyy  (e.g., 12-05-1995)
  *
  * Compile:
@@ -516,4 +515,5 @@ class HospitalPatientsApp {
             new LoginFrame().setVisible(true);
         });
     }
+
 }
