@@ -29,7 +29,7 @@ import java.util.UUID;
  */
 class HospitalPatientsApp {
 
-    // ------------------ FileManager (Abstraction for file IO) ------------------
+    // ------------------ FileManager (Abstraction for file IO) -----------------
     public static class FileManager {
         private static final String DATA_DIR = "data";
         private static final String PATIENT_SER = "patients.ser";
@@ -517,3 +517,4 @@ class HospitalPatientsApp {
     }
 
 }
+
